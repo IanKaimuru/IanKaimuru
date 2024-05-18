@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Hey Im currently learning  c++ 
 <!--
 **IanKaimuru/IanKaimuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
